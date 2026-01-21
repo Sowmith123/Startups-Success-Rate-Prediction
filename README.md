@@ -66,3 +66,18 @@ This project builds a **predictive machine learning model** to estimate the **pr
 ---
 
 ## 📂 Project Structure
+Startup-Success-Prediction/
+│
+├── data/
+│ └── startup_data.csv
+│
+├── notebooks/
+│ └── EDA_and_Modeling.ipynb
+│
+├── src/
+│ ├── preprocessing.py
+│ ├── model.py
+│ └── prediction.py
+│
+├── README.md
+└── requirements.txt
